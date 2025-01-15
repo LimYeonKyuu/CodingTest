@@ -12,9 +12,9 @@
 - [CodeUp](https://codeup.kr/index.php)
 
 ## 📅 Schedule
-| 기간             | 1            | 2    | 3    | 4    | 5    | 6    | 7    |
-|----------------|--------------|------| ------| ------| ------| ------| ------|
-| 1주차(1/12-1/18) | [백준 11720](https://github.com/LimYeonKyuu/CodingTest/tree/main/src/codingtest/baekjoon/baek11720) |      |      |      |      |
+| 기간             | 1            | 2                                                                                               | 3    | 4    | 5    | 6    | 7    |
+|----------------|--------------|-------------------------------------------------------------------------------------------------| ------| ------| ------| ------| ------|
+| 1주차(1/12-1/18) | [백준 11720](https://github.com/LimYeonKyuu/CodingTest/tree/main/src/codingtest/baekjoon/baek11720) | [백준 9046](https://github.com/LimYeonKyuu/CodingTest/tree/main/src/codingtest/baekjoon/back9046) |      |      |      |
 
 
 ## 📝 Commit Message Rules

@@ -1,4 +1,4 @@
-package codingtest.baekjoon.back9046;
+package codingtest.baekjoon.baek9046;
 
 import java.io.BufferedReader;
 import java.io.IOException;
